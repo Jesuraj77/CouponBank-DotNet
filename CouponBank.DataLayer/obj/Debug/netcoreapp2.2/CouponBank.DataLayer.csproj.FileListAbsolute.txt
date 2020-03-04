@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\bin\Debug\netcoreapp2.2\CouponBank.DataLayer.deps.json
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\bin\Debug\netcoreapp2.2\CouponBank.DataLayer.dll
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\bin\Debug\netcoreapp2.2\CouponBank.DataLayer.pdb
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\bin\Debug\netcoreapp2.2\CouponBank.Entities.dll
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\bin\Debug\netcoreapp2.2\CouponBank.Entities.pdb
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\obj\Debug\netcoreapp2.2\CouponBank.DataLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\obj\Debug\netcoreapp2.2\CouponBank.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\obj\Debug\netcoreapp2.2\CouponBank.DataLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\obj\Debug\netcoreapp2.2\CouponBank.DataLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\obj\Debug\netcoreapp2.2\CouponBank.DataLayer.dll
+C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.DataLayer\obj\Debug\netcoreapp2.2\CouponBank.DataLayer.pdb
