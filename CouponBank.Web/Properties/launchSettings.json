@@ -1,14 +1,10 @@
-{
+﻿{
   "iisSettings": {
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
       "applicationUrl": "http://localhost:9090",
-<<<<<<< HEAD
       "sslPort": 44333
-=======
-      "sslPort": 44382
->>>>>>> 588e64d7cb9953112c360b695d2aa9dd6c32d72d
     }
   },
   "profiles": {
@@ -19,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Pixogram": {
+    "CouponBank.Web": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "http://localhost:9090",
