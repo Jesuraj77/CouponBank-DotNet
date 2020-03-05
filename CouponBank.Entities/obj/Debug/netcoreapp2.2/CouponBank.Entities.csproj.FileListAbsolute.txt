@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.Entities\obj\Debug\netcore
 C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.Entities\obj\Debug\netcoreapp2.2\CouponBank.Entities.AssemblyInfo.cs
 C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.Entities\obj\Debug\netcoreapp2.2\CouponBank.Entities.dll
 C:\Users\Admin\source\repos\CouponBank.Web\CouponBank.Entities\obj\Debug\netcoreapp2.2\CouponBank.Entities.pdb
+C:\Users\Admin\source\repos\CouponBank\CouponBank.Entities\bin\Debug\netcoreapp2.2\CouponBank.Entities.deps.json
+C:\Users\Admin\source\repos\CouponBank\CouponBank.Entities\bin\Debug\netcoreapp2.2\CouponBank.Entities.dll
+C:\Users\Admin\source\repos\CouponBank\CouponBank.Entities\bin\Debug\netcoreapp2.2\CouponBank.Entities.pdb
+C:\Users\Admin\source\repos\CouponBank\CouponBank.Entities\obj\Debug\netcoreapp2.2\CouponBank.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CouponBank\CouponBank.Entities\obj\Debug\netcoreapp2.2\CouponBank.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CouponBank\CouponBank.Entities\obj\Debug\netcoreapp2.2\CouponBank.Entities.dll
+C:\Users\Admin\source\repos\CouponBank\CouponBank.Entities\obj\Debug\netcoreapp2.2\CouponBank.Entities.pdb

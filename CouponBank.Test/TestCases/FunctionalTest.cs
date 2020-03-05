@@ -78,9 +78,21 @@ namespace CouponBank.Test.TestCases
         [Fact]
         public void TestFor_Valid_AddCoupon()
         {
+
+
             //Arrange
+            BankCoupon bankCoupon = new BankCoupon()
+            {
+                CouponId = 1,
+                UserID = 1,
+                CouponImage = "ss",
+                CouponNumber = "1",
+                Couponvalue = 1,
+                Created_at = DateTime.Now
+            };
+            
             //Action
-            var IsAdded = _LoginService.ResetPassword(user.UserName, user.Password);
+            var IsAdded = _UserService.AddCoupon(bankCoupon);
 
             //Assert
             Assert.True(IsAdded);

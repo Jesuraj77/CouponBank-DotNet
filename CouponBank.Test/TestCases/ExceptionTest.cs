@@ -40,8 +40,49 @@ namespace CouponBank.Test.TestCases
             Assert.Equal("User Not Found", ex.Messages);
         }
 
+        [Fact]
+        public void ExceptionTestFor_UserRegistration()
+        {
+            //Arrange
+            User user = new User()
+            {
+                Id = 1,
+                UserName = "John",
+                Email = "John@gamail.com",
+                Password = "John123",
+                Status = "aa",
+                Created_at = DateTime.Now,
+                role = "User"
+
+            };
+
+            //Action
+            var ex = Assert.Throws<UserAlreadyExistException>(() => _LoginService.Register(user));
+            //Assert
+            Assert.Equal("User already registered.. Please login", ex.Messages);
+        }
+
+        [Fact]
+        public void ExceptionforMakeTransaction()
+        {
+            BankTransaction banktransaction = new BankTransaction()
+            {
+                TransactionId = 1,
+                UserId = 1,
+                CouponId = 1,
+                ReceivedFrom = 1,
+                PaidTo = 1,
+                Datetime = DateTime.Now,
+                CouponValue = 1,
+
+            };
+
+            var ex = Assert.Throws<ExceptionforMakeTransaction>(() => _BankService.MakeTransaction(banktransaction));
+            //Assert
+            Assert.Equal("Transaction Failled", ex.Messages);
 
 
+        }
 
     }
 }

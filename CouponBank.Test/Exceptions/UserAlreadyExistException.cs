@@ -4,13 +4,13 @@ using System.Text;
 
 namespace CouponBank.Test.Exceptions
 {
-    public class UserAlreadyExistException
+    public class UserAlreadyExistException:Exception
     {
-        private string Messages = "User already registered..Please login";
+        public string Messages = "User Already Exist";
 
-        public UserAlreadyExistException(string messages)
+        public UserAlreadyExistException(string message)
         {
-            Messages = messages;
+            Messages = message;
         }
 
     }

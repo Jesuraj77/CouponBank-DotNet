@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
         "projectName": "CouponBank.BusinessLayer",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,11 +32,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj"
+              "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj"
               },
-              "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj"
+              "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj",
         "projectName": "CouponBank.DataLayer",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -99,8 +99,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj"
+              "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj",
         "projectName": "CouponBank.Entities",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

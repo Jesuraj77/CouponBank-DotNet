@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj",
         "projectName": "CouponBank.Entities",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

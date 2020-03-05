@@ -14,6 +14,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\CouponBank.DataLayer\CouponBank.DataLayer.csproj" />
     <ProjectReference Include="..\CouponBank.Entities\CouponBank.Entities.csproj" />
   </ItemGroup>
 

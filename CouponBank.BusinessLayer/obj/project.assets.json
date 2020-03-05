@@ -92,7 +92,7 @@
           "lib/netstandard1.3/Microsoft.CSharp.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.2": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
@@ -1403,7 +1403,7 @@
         "dependencies": {
           "CouponBank.Entities": "1.0.0",
           "FluentNHibernate": "2.1.2",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
           "MySql.Data": "8.0.19"
         },
         "compile": {
@@ -1581,17 +1581,16 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.2": {
-      "sha512": "/CZzCSCIm/3FFoXHfUpsfov/Elo268dcvlz/MMINT0vPgphqg2pAgdEn/EjCDyoAT3NAmsRmjfGwBumC1uYJtA==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+      "sha512": "f9hstgjVmr6rmrfGSpfsVOl2irKAgr1QjrSi3FgnS7kulxband50f2brRLwySAQTADPZeTdow0mpSMcoAdadCw==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.2",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.2.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "Icon.png",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec"
       ]
     },
@@ -5418,11 +5417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
       "projectName": "CouponBank.BusinessLayer",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\CouponBank.BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5443,11 +5442,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj"
+            "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.DataLayer\\CouponBank.DataLayer.csproj"
             },
-            "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj": {
-              "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank.Web\\CouponBank.Entities\\CouponBank.Entities.csproj"
+            "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\CouponBank\\CouponBank.Entities\\CouponBank.Entities.csproj"
             }
           }
         }
